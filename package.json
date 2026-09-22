@@ -1,0 +1,10 @@
+{
+  "name": "mulheres-na-ciencia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exposição digital Mulheres na Ciência — Feira de Ciências 2026 do IFSP São José dos Campos.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
